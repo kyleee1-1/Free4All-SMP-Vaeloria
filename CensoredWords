@@ -1,0 +1,14 @@
+//
+
+Feel free to add inappropriate words to block! Don't forget to add ',' and
+'"(word)"'.
+
+blocked_words = [ "gang bang", "ginang bang", "fuck", "nigga", "tangina", "sex", "iyot", "kantutan", "bembang", "lala", "tanga", "bobo", "gago", "tangina", "8080", "putangina", "kupal", "iniyot", "inanakan", "binuntis", "inamo", "bonak", "onab", "bano", "obob", "vv", "fucking", "shit", "dick", "penis", "kiffy", "puke", "kipay", "dildo", "boobs", "tits", "vagina", "balls", "subo", "niga", "porn" ]
+
+//
+message_delay = 0.7
+max_caps = 9999
+max_warns = 3
+kick_message = "You have been kicked for receiving too many warnings!"
+max_message_length = 123
+//
